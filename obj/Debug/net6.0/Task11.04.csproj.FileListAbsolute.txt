@@ -1,0 +1,15 @@
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/bin/Debug/net6.0/Task11.04
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/bin/Debug/net6.0/Task11.04.deps.json
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/bin/Debug/net6.0/Task11.04.runtimeconfig.json
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/bin/Debug/net6.0/Task11.04.dll
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/bin/Debug/net6.0/Task11.04.pdb
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/Task11.04.csproj.AssemblyReference.cache
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/Task11.04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/Task11.04.AssemblyInfoInputs.cache
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/Task11.04.AssemblyInfo.cs
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/Task11.04.csproj.CoreCompileInputs.cache
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/Task11.04.dll
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/refint/Task11.04.dll
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/Task11.04.pdb
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/Task11.04.genruntimeconfig.cache
+/Users/eslinamazova/Desktop/CODE/C# /Task11.04/obj/Debug/net6.0/ref/Task11.04.dll
